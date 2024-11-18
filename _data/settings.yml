@@ -12,16 +12,13 @@ menu:
 
 projects:
 - {name: 'Project One',   url: 'proj-1'}
-- {name: 'Project Two',   url: 'proj-2'}
-- {name: 'Project Three', url: 'proj-3'}
-- {name: 'Project Four',  url: 'proj-4'}
-- {name: 'Project Five',  url: 'proj-5'}
 
 #-------------------------------
 # Contact Section
 
 social:
 - {icon: 'linkedin',  link: 'https://www.linkedin.com/in/noel-kochera/'}
+- {icon: 'github', link: 'https://github.com/Arsene192/'}
 
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
